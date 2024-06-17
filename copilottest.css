@@ -1,0 +1,35 @@
+/* styles.css */
+
+/* Fond d'écran */
+body {
+    background-image: url();
+    background-size: cover;
+    background-repeat: no-repeat
+}
+
+ header {
+    
+        background-color:antiquewhite;
+        color: #fff;
+        padding: 5px;
+        text-align: center;
+      }
+      footer {
+        background-color:antiquewhite;
+        color: #fff;
+        padding: 10px;
+        text-align: center;
+      }
+.menu{
+    position: absolute;
+    top: 30%;
+    left:10%;
+    transform: translate(40%, -170%);
+}
+.menu a{
+    color:#fff;
+    text-decoration: none;
+    border: 1px solid #fff;
+    padding: 14px 20px;
+}
+      
